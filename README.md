@@ -1,6 +1,6 @@
 # keyboard-builds
 
-This template should help get you started developing with Vue 3 in Vite.
+Using Vue 3 in Vite with Node v18.17.0.
 
 ## Recommended IDE Setup
 
